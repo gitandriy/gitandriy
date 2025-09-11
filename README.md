@@ -11,6 +11,7 @@
 
 ## 🛠️ Tech & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Tkinter](https://img.shields.io/badge/-Tkinter-333333?style=flat)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
