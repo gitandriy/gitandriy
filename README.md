@@ -16,4 +16,4 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ## 📂 Projects
-- [StudyPy](https://github.com/okandriy/study-py) – Tkinter study tracker
+- [StudyPy](https://github.com/gitandriy/study-py) – Tkinter study tracker
