@@ -3,6 +3,8 @@
 🎓 CS Student | CyberSecurity Enthusiast | Aspiring Software Engineer in Python & Java
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/gitandriy.png)](https://tryhackme.com/p/gitandriy)
+![Andriy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=okandriy&show_icons=true&theme=radical)
+
 
 ## 🛠️ Tech & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
