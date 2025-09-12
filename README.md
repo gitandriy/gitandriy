@@ -16,4 +16,5 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ## 📂 Projects
-- [StudyPy](https://github.com/gitandriy/study-py) – Tkinter study tracker
+- [StudyPy](https://github.com/gitandriy/study-py) – Tkinter study tracker with task management, stats and website blocking for focus.
+- [ESP8266 WiFi Monitor](https://github.com/gitandriy/esp-wifi-monitor) - ESP8266 web dashboard showing Wi-Fi status, IP, and signal strength in real-time.
