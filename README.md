@@ -1,6 +1,6 @@
 # Hi, I'm Andriy 👋
 
-🎓 CS Student | CyberSecurity Enthusiast | Aspiring Software Engineer in Python & Java
+🎓 CS Student | Cybersecurity Enthusiast | Aspiring Software Engineer in Python & Java
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/gitandriy.png)](https://tryhackme.com/p/gitandriy)
 
