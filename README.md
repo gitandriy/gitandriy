@@ -19,3 +19,4 @@
 - [StudyPy](https://github.com/gitandriy/study-py) – Tkinter study tracker with task management, stats and website blocking for focus.
 - [ESP8266 WiFi Monitor](https://github.com/gitandriy/esp-wifi-monitor) - ESP8266 web dashboard showing Wi-Fi status, IP, and signal strength in real-time.
 - [Password Strength Checker](https://github.com/gitandriy/PasswordStrengthChecker) - Flask web app made to easily check password strength (either single or bulk) using factors like length, entropy, if it's been leaked online, etc.
+- [GeoMeta Duels](https://github.com/gitandriy/geometa-duels) - Fork of the GeoGuessr Learnable Meta repo, with changes to the userscript to allow for multiplayer duels support.
